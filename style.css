@@ -8,9 +8,10 @@ body {
 }
 
 .container {
-    background-image: url('../wq/ak.jpg') !important;
+    background-image: url('./ak.jpg') !important;
     background-size: cover;
 }
+
 
 header {
     background-color: #975ac0;
